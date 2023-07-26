@@ -13,8 +13,11 @@ Implement the caeser cipher code and run the application to test all the functio
 Git clone the git repo and push to Git hub.
 ## Technologies Used
 •	Java
+•	Gradle
 •	IntelliJ
 •	Gitbash
 •	Github
 ## License information
 copyright(c)2023 Idah Micheni
+## Live Link
+https://sheri2023.github.io/javaspark-week1-ip/
